@@ -1,0 +1,14 @@
+2018-09-20
+龚鹏仡提供mock模拟数据-随机数据
+开始使用需要配置路由
+
+echo "# api-mock-2018-09" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/zghgit/api-mock-2018-09.git
+git push -u origin master
+
+
+git remote add origin https://github.com/zghgit/api-mock-2018-09.git
+git push -u origin master
